@@ -1,0 +1,5 @@
+n="v#i#j#a#y"
+c=n.count("#")
+print(c)
+str=n.replace("#","")
+print(str+c*"#")
